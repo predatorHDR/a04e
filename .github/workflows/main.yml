@@ -10,11 +10,9 @@ on:
         type: choice
         options:
         - 'none (Use Custom URL below)'
-        - 'Samsung A04s (64GB)'
-        - 'Samsung A12s A127F'
-        - 'Samsung A15 (128/256GB)'
+        - 'Samsung A04e (32GB)'
       stock_firmware_url:
-        description: 'Custom Stock Firmware URL (Required if preset is none)'
+        description: 'https://samfrew.com/download/Galaxy__A04e__/c0tm/GTO/A042MUBSHEZF1/A042MOWOHEZF1#google_vignette'
         required: false
         type: string
       custom_system_url:
